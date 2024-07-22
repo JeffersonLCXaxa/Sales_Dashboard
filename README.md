@@ -31,7 +31,7 @@ The goal of this project was to develop an interactive dashboard in Power BI for
    - Download the file `Vendas.pbix` to your computer.
   
 4. **About the Dataset**
-   - The data used in this project is sample data provided by Power BI (`financials`).
+   - The data used in this project is sample data provided by Power BI (`financials`) or try to download and connecting the database (`Financial Sample.xlsx`).
 
 5. **Explore the Dashboard:**
    - Open the file `Vendas.pbix` in Power BI Desktop.
