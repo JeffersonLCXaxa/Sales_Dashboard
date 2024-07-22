@@ -1,61 +1,61 @@
-# Dashboard de Vendas - Bootcamp de Data Analytics com Power BI
+# Sales Dashboard - Data Analytics Bootcamp with Power BI
 
-Este repositório contém os arquivos relacionados ao projeto de criação de um Dashboard de Vendas utilizando o Power BI, realizado como parte do Bootcamp da Digital Innovation One ([DIO](https://web.dio.me/track/098c018b-7c38-49cb-9276-2097dc0b571d)).
+This repository contains files related to the project of creating a Sales Dashboard using Power BI, developed as part of the Digital Innovation One Bootcamp ([DIO](https://web.dio.me/track/098c018b-7c38-49cb-9276-2097dc0b571d)).
 
-## Descrição do Projeto
+## Project Description
 
-O objetivo deste projeto foi desenvolver um dashboard interativo no Power BI para análise de vendas de uma empresa fictícia. O dashboard foi criado para fornecer insights sobre o desempenho de vendas por meio de visualizações claras e intuitivas.
+The goal of this project was to develop an interactive dashboard in Power BI for analyzing sales data from a fictional company. The dashboard was created to provide insights into sales performance through clear and intuitive visualizations.
 
-## Arquivos Incluídos
+## Included Files
 
-- **Vendas.pbix**: Arquivo principal do Power BI contendo o dashboard e os 3 relatórios criados.
-- **Vendas.pdf**: Documento em PDF contendo capturas de tela das páginas do dashboard para visualização rápida.
+- **Vendas.pbix**: Main Power BI file containing the dashboard and the 3 created reports.
+- **Vendas.pdf**: PDF document containing screenshots of dashboard pages for quick viewing.
 
-## Estrutura do Projeto
+## Project Structure
 
-| Nome do arquivo | Formato |
+| File Name       | Format  |
 | --------------- | ------- |
 | Vendas          | `.pbix` |
 | Vendas          | `.pdf`  |
 | README          | `.md `  |
 
-## Como Utilizar
+## How to Use
 
-1. **Visualizar o PDF do Dashboard:**
-   - Caso queira ter uma prévia rápida das páginas do dashboard, consulte o arquivo `Dashboard_Vendas.pdf`.
+1. **View the Dashboard PDF:**
+   - For a quick preview of the dashboard pages, refer to the file `Dashboard_Vendas.pdf`.
 
-2. **Baixar o Power BI Desktop:**
-   - Certifique-se de ter o Power BI Desktop instalado em seu computador. Caso ainda não tenha, você pode baixá-lo gratuitamente através do site oficial da Microsoft: [Power BI Desktop](https://powerbi.microsoft.com/desktop).
+2. **Download Power BI Desktop:**
+   - Make sure you have Power BI Desktop installed on your computer. If not, you can download it for free from the official Microsoft website: [Power BI Desktop](https://powerbi.microsoft.com/desktop).
 
-3. **Abrir o Projeto:**
-   - Faça o download do arquivo `Vendas.pbix` para o seu computador.
+3. **Open the Project:**
+   - Download the file `Vendas.pbix` to your computer.
   
-4. **Sobre a Base de Dados:**
-   - Os dados utilizados nesse projeto foram os de amostra do próprio power BI (`financials`).
+4. **About the Dataset**
+   - The data used in this project is sample data provided by Power BI (`financials`).
 
-5. **Explorar o Dashboard:**
-   - Abra o arquivo `Vendas.pbix` no Power BI Desktop.
-   - Navegue pelas diferentes páginas do dashboard para visualizar as análises de vendas.
-   - Interaja com os elementos visuais para explorar os dados de maneira dinâmica.
+5. **Explore the Dashboard:**
+   - Open the file `Vendas.pbix` in Power BI Desktop.
+   - Navigate through different pages of the dashboard to view sales analyses.
+   - Interact with visual elements to explore data dynamically.
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Se você identificar melhorias ou correções necessárias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Contributions are welcome! If you identify improvements or necessary corrections, feel free to open an *issue* or send a *pull request*.
 
-## Autor
+## Author
 
-Este projeto foi desenvolvido como parte do Bootcamp da Digital Innovation One (DIO).
+This project was developed as part of the Digital Innovation One Bootcamp (DIO).
 
 - [Jefferson Luiz da Costa Xaxá](https://github.com/JeffersonLCXaxa)
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença [MIT](LICENSE).
+This project is licensed under the [MIT](LICENSE).
 
 ---
 
-Esse README serve como guia básico para começar a explorar e utilizar o dashboard de vendas desenvolvido no Power BI. Para mais informações detalhadas sobre as análises e insights proporcionados pelo dashboard, consulte diretamente o arquivo `Vendas.pbix` no Power BI Desktop.
+This README serves as a basic guide to start exploring and using the sales dashboard developed in Power BI. For more detailed information about the analyses and insights provided by the dashboard, refer directly to the `Vendas.pbix` file in Power BI Desktop.
 
-Para dúvidas ou suporte adicional, sinta-se à vontade para entrar em contato.
+For questions or additional support, feel free to reach out.
 
-**Última atualização:** Julho de 2024
+**Last updated:** July 2024
