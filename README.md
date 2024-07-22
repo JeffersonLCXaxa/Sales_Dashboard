@@ -8,40 +8,45 @@ O objetivo deste projeto foi desenvolver um dashboard interativo no Power BI par
 
 ## Arquivos Incluídos
 
-- **Vendas.pbix**: Arquivo principal do Power BI contendo o dashboard e os relatórios criados.
-- **Dashboard_Vendas.pdf**: Documento em PDF contendo capturas de tela das páginas do dashboard para visualização rápida.
+- **Vendas.pbix**: Arquivo principal do Power BI contendo o dashboard e os 3 relatórios criados.
+- **Vendas.pdf**: Documento em PDF contendo capturas de tela das páginas do dashboard para visualização rápida.
 
 ## Estrutura do Projeto
 
-|-- Vendas.pbix
-|-- Dashboard_Vendas.pdf
-|-- README.md
+| Nome do arquivo | Formato |
+| --------------- | ------- |
+| Vendas          | `.pbix` |
+| Vendas          | `.pdf`  |
+| README          | `.md `  |
 
 ## Como Utilizar
 
-1. **Baixar o Power BI Desktop:**
+1. **Visualizar o PDF do Dashboard:**
+   - Caso queira ter uma prévia rápida das páginas do dashboard, consulte o arquivo `Dashboard_Vendas.pdf`.
+
+2. **Baixar o Power BI Desktop:**
    - Certifique-se de ter o Power BI Desktop instalado em seu computador. Caso ainda não tenha, você pode baixá-lo gratuitamente através do site oficial da Microsoft: [Power BI Desktop](https://powerbi.microsoft.com/desktop).
 
-2. **Abrir o Projeto:**
+3. **Abrir o Projeto:**
    - Faça o download do arquivo `Vendas.pbix` para o seu computador.
+  
+4. **Sobre a Base de Dados:**
+   - Os dados utilizados nesse projeto foram os de amostra do próprio power BI (`financials`).
 
-3. **Explorar o Dashboard:**
+5. **Explorar o Dashboard:**
    - Abra o arquivo `Vendas.pbix` no Power BI Desktop.
    - Navegue pelas diferentes páginas do dashboard para visualizar as análises de vendas.
    - Interaja com os elementos visuais para explorar os dados de maneira dinâmica.
-
-4. **Visualizar o PDF do Dashboard:**
-   - Caso queira ter uma prévia rápida das páginas do dashboard, consulte o arquivo `Dashboard_Vendas.pdf`.
 
 ## Contribuição
 
 Contribuições são bem-vindas! Se você identificar melhorias ou correções necessárias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
-## Autores
+## Autor
 
-Este projeto foi desenvolvido como parte do Bootcamp da Digital Innovation One (DIO). Os participantes envolvidos são:
+Este projeto foi desenvolvido como parte do Bootcamp da Digital Innovation One (DIO).
 
-- [Seu Nome](https://github.com/seu-usuario-github)
+- [Jefferson Luiz da Costa Xaxá](https://github.com/JeffersonLCXaxa)
 
 ## Licença
 
