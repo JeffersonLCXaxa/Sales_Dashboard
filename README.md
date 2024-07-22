@@ -1,6 +1,6 @@
-# Dashboard de Vendas - Projeto Bootcamp DIO
+# Dashboard de Vendas - Bootcamp de Data Analytics com Power BI
 
-Este repositório contém os arquivos relacionados ao projeto de criação de um Dashboard de Vendas utilizando o Power BI, realizado como parte do Bootcamp da Digital Innovation One (DIO).
+Este repositório contém os arquivos relacionados ao projeto de criação de um Dashboard de Vendas utilizando o Power BI, realizado como parte do Bootcamp da Digital Innovation One ([DIO](https://web.dio.me/track/098c018b-7c38-49cb-9276-2097dc0b571d)).
 
 ## Descrição do Projeto
 
